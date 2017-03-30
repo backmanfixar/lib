@@ -13,3 +13,8 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+### PHP Kod här under
+
+```php
+$var = array('ett', 2, 'tre', 4);
+```
